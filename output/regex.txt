@@ -1,11 +1,1 @@
-john
-paul
 george
-ringo
-abed
-troy
-jeff
-britta
-annie
-pierce
-shirley
