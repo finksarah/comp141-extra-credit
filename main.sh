@@ -18,6 +18,8 @@ ls > ls.txt
 
 cp text copy.txt
 
+shopt -s expand_aliases
+
 alias printdate='date'
 
 printdate > date.txt
